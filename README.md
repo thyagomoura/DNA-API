@@ -9,7 +9,7 @@ Projeto criado para consumo de uma API externa utilizando do C# .NET, como auxil
   Esse projeto é importante, pois foi um projeto desenvolvido internamente com um mentor, aprendi clean code no C#,
 aprendi como usar o REFIT, arquitetura de código pensando em um código que pode ser atualizado constantemente
 e que é de fácil compreensão. Além de tudo tive experiencia e networking aprimorados, depois desse código, descobri
-minha vontade por entender mais sobre o C# com o .NET e criar um sentimento de querer mais, querer saber mais sobre
+minha vontade por entender mais sobre o C# com o .NET e criar um sentimento de querer mais, querer saber mais sobre,
 hoje passo muitas horas do dia pesquisando sobre, aprendendo detalhes e buscando cada vez mais me aprofundar, por mais
 que ainda esteja no começo.
 
